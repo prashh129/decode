@@ -1,7 +1,3 @@
-Here's a clear and precise **README.md** for your GitHub repository:
-
----
-
 # Simple Encryption and Decryption Program
 
 This Python script provides a basic encryption and decryption mechanism for words. It's designed for demonstration purposes and includes customizable prefixes and suffixes.
