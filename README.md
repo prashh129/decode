@@ -78,4 +78,9 @@ Your decrypted word is: Hello
 ---
 
 ## License
-This project is open-source and available under the [MIT License](LICENSE).
+This project does not have a license. All rights are reserved. If you would like to use this code, please contact the repository owner for permission.
+
+## Acknowledgments
+
+Thanks for checking out this project! If you have any feedback or questions, please feel free to open an issue or contact me directly.
+
