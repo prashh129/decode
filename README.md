@@ -29,11 +29,11 @@ This Python script provides a basic encryption and decryption mechanism for word
 ### Running the Program
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
+   git clone https://github.com/prashh129/decode.git
    ```
 2. Navigate to the directory:
    ```bash
-   cd repository-name
+   cd decode
    ```
 3. Run the script:
    ```bash
